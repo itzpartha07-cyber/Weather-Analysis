@@ -93,12 +93,3 @@ P(z) = P0 * exp(-z / H)    # H = 8400 m (scale height used)
 ```
 
 ---
-
-## Contributors
-
-| Roll No. | Name | Contribution |
-|----------|------|-------------|
-| 2511109 | P. Laharika | Analysis & interpretation |
-| 2511111 | Partha Sarathi Mohanta | Code development |
-| 2511112 | Payal Kumari | Analysis & interpretation |
-| 2511113 | Phulchand | Documentation |
